@@ -8,6 +8,6 @@
 ## 2. Preposições
 
 ### In, On and At
-### Of
+### Of and of the
 
 
