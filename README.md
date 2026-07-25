@@ -8,7 +8,7 @@
 ## 2. Preposições
 
 ### 2.1 In, On and At
-### Of and of the
+### 2.2 Of and of the
 ### To and for
 ### this and these
 #### 
