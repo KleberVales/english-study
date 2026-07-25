@@ -7,10 +7,10 @@
 ### 2.1 Make and do
 ### 2.2 Have
 
-## 2. Preposições
+## 3. Preposições
 
-### 2.1 In, On and At
-### 2.2 Of and of the
+### 3.1 In, On and At
+### 3.2 Of and of the
 ### 2.3 To and for
 ### 2.4 this and these
 #### 2.4.1 Of that
