@@ -25,6 +25,6 @@
 
 ## 5. Verb Tense
 
-### 5.1 Simple
+### 5.1 Simple Present
 
 
