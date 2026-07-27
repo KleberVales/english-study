@@ -25,13 +25,8 @@
 
 ## 5. Verb Tense
 
-### 5.1 Present
-#### 5.1.1 Simple Present
-
-### 5.2 Past
-#### 5.2.1 Simple Past
-
-### 5.3 Future
-#### 5.3.1 Simple Future
+| Aspecto | Present (Presente) | Past (Passado) | Future (Futuro) |
+|---------|---------------------|----------------|------------------|
+|
 
 
