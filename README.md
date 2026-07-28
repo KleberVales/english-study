@@ -30,7 +30,7 @@
 | Simple (Pure action / Fact ) | Simple Present<br>(I work) | Simple Past<br>(I worked) | Simple Future<br>(I will work) |
 | Continuous (Action in progress) | Present Continuous<br>(I am working) | Past Continuous<br>(I was working) | Future Continuous<br>(I will be working) |
 | Perfect (Action completed / Connection) | Present Perfect<br>(I have worked) | Past Perfect<br>(I had worked) | Future Perfect<br>(I will have worked) |
-| Perfect Continuous (Duração acumulada) | Present Perfect Cont.<br>(I have been working) | Past Perfect Cont.<br>(I had been working) | Future Perfect Cont.<br>(I will have been working) |
+| Perfect Continuous (Cumulative ) | Present Perfect Cont.<br>(I have been working) | Past Perfect Cont.<br>(I had been working) | Future Perfect Cont.<br>(I will have been working) |
 
 
 
