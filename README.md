@@ -4,7 +4,7 @@
 
 ### 1.1 Present Tense
 ### 1.2 Past Tense
-### 1.3 Future 
+### 1.3 Future Tense
 
 ## 1. Article
 
