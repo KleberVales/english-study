@@ -3,6 +3,7 @@
 ## 1. verb to be
 
 ### 1.1 Present Tense
+### 1.2 Past 
 
 ## 1. Article
 
