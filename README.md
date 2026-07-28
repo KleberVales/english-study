@@ -4,7 +4,7 @@
 
 ### 1.1 a and the
 
-## 2. Verbos
+## 2. Verbs
 
 ### 2.1 Make and do
 ### 2.2 Have
