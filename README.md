@@ -25,7 +25,7 @@
 
 ## 5. Verb Tense
 
-| Aspecto | Present  | Past (Passado) | Future (Futuro) |
+| Aspecto | Present  | Past  | Future (Futuro) |
 |---------|---------------------|----------------|------------------|
 | Simple (Ação pura / Fato) | Simple Present<br>(I work) | Simple Past<br>(I worked) | Simple Future<br>(I will work) |
 | Continuous (Ação em andamento) | Present Continuous<br>(I am working) | Past Continuous<br>(I was working) | Future Continuous<br>(I will be working) |
