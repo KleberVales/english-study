@@ -2,7 +2,7 @@
 
 ## 1. verb to be
 
-### 1.1 Present 
+### 1.1 Present Tense
 
 ## 1. Article
 
