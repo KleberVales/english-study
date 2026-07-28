@@ -2,7 +2,7 @@
 
 ## 1. Article
 
-### 1.1 a and the
+### 1.1 a, an and the
 
 ## 2. Verbs
 
