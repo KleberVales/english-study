@@ -27,7 +27,7 @@
 
 | Aspecto | Present  | Past  | Future  |
 |---------|---------------------|----------------|------------------|
-| Simple (Pure action  ) | Simple Present<br>(I work) | Simple Past<br>(I worked) | Simple Future<br>(I will work) |
+| Simple (Pure action / Fact ) | Simple Present<br>(I work) | Simple Past<br>(I worked) | Simple Future<br>(I will work) |
 | Continuous (Ação em andamento) | Present Continuous<br>(I am working) | Past Continuous<br>(I was working) | Future Continuous<br>(I will be working) |
 | Perfect (Ação concluída / Conexão) | Present Perfect<br>(I have worked) | Past Perfect<br>(I had worked) | Future Perfect<br>(I will have worked) |
 | Perfect Continuous (Duração acumulada) | Present Perfect Cont.<br>(I have been working) | Past Perfect Cont.<br>(I had been working) | Future Perfect Cont.<br>(I will have been working) |
