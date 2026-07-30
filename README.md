@@ -39,6 +39,7 @@ Time
 
 - I have a team sync on Monday.
 - The event will take place on July 22nd.
+- What are you planning to do on your birthday?
   
 ### 3.2 Of and of the
 ### 3.3 To and for
