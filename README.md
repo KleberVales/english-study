@@ -55,6 +55,7 @@ Public Transportation and Two-Wheeled Vehicles
 Technology, Media and Electronics
 
 - I found this documentation on the website.
+- She posted the update on LinkedIn.
   
 ### 3.2 Of and of the
 ### 3.3 To and for
