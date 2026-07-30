@@ -42,7 +42,8 @@
 
 ## 6. Linking Words
 
-### however, directly related to, despite, furthermore, as long as
+### 6.1 however
+directly related to, despite, furthermore, as long as
 
 
 
