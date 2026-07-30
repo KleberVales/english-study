@@ -31,6 +31,8 @@ place
 - Get in the car, let's go.
 
 Printed Media and Content
+
+- I read that story in a book.
   
 ### 3.2 Of and of the
 ### 3.3 To and for
