@@ -18,6 +18,8 @@
 ## 3. Preposition
 
 ### 3.1 In, On and At
+- My birthday is in July.
+- 
 ### 3.2 Of and of the
 ### 3.3 To and for
 ### 3.4 this and these
