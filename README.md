@@ -42,7 +42,7 @@
 
 ## Linking Words
 
-### however, directly 
+### however, directly related to, despite, 
 
 
 
