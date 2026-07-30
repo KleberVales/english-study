@@ -33,6 +33,7 @@ place
 Printed Media and Content
 
 - I read that story in a book.
+- Who is that guy in the picture?
   
 ### 3.2 Of and of the
 ### 3.3 To and for
