@@ -21,6 +21,8 @@
 - My birthday is in July.
 - We started this project in 2026.
 - It gets very cold here in the winter.
+- I always study in the morning.
+  
 ### 3.2 Of and of the
 ### 3.3 To and for
 ### 3.4 this and these
