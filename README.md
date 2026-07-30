@@ -42,6 +42,8 @@ Time
 - What are you planning to do on your birthday?
 
 Place 
+
+- Put the laptop on the desk.
   
 ### 3.2 Of and of the
 ### 3.3 To and for
