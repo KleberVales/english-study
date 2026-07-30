@@ -24,6 +24,7 @@ time
 - It gets very cold here in the winter.
 - I always study in the morning.
 
+place
 - They live in Brazil. 
   
 ### 3.2 Of and of the
