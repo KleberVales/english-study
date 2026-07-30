@@ -42,7 +42,7 @@
 
 ## Linking Words
 
-### however, directly related to, despite, 
+### however, directly related to, despite, furthermore, as long as
 
 
 
