@@ -50,6 +50,7 @@ Place
 Public Transportation and Two-Wheeled Vehicles
 
 - I usually read articles while I'm on the train.
+- He likes to travel on his motorcycle.
   
 ### 3.2 Of and of the
 ### 3.3 To and for
