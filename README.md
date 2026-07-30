@@ -42,7 +42,7 @@
 
 ## Linking Words
 
-### however
+### however, directly 
 
 
 
