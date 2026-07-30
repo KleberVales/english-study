@@ -25,7 +25,8 @@ time
 - I always study in the morning.
 
 place
-- They live in Brazil. 
+- They live in Brazil.
+- The keys are in my bag.
   
 ### 3.2 Of and of the
 ### 3.3 To and for
