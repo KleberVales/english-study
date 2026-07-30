@@ -27,6 +27,7 @@ time
 place
 - They live in Brazil.
 - The keys are in my bag.
+- He is working in the office.
   
 ### 3.2 Of and of the
 ### 3.3 To and for
