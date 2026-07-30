@@ -45,7 +45,8 @@
 ### 6.1 however
 ### 6.2 directly related to
 ### 6.3 despite
-### 6.4 furthermore, as long as
+### 6.4 furthermore
+### 6.5 as long as
 
 
 
