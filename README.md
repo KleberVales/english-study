@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-place
 - They live in Brazil.
 - The keys are in my bag.
 - He is working in the office.
