@@ -18,7 +18,6 @@
 ## 3. Preposition
 
 ### 3.1 In, On and At
-- It gets very cold here in the winter.
 - I always study in the morning.
 
 place
