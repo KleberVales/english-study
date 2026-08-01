@@ -19,8 +19,6 @@
 
 ### 3.1 In, On and At
 
-- Get in the car, let's go.
-
 Printed Media and Content
 
 - I read that story in a book.
