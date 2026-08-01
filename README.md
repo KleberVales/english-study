@@ -19,8 +19,6 @@
 
 ### 3.1 In, On and At
 
-Printed Media and Content
-
 - I read that story in a book.
 - Who is that guy in the picture?
 
