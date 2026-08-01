@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- He is working in the office.
 - Get in the car, let's go.
 
 Printed Media and Content
