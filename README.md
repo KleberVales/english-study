@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- They live in Brazil.
 - The keys are in my bag.
 - He is working in the office.
 - Get in the car, let's go.
