@@ -18,7 +18,6 @@
 ## 3. Preposition
 
 ### 3.1 In, On and At
-- I always study in the morning.
 
 place
 - They live in Brazil.
