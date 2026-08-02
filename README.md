@@ -19,8 +19,6 @@
 
 ### 3.1 In, On and At
 
-- Who is that guy in the picture?
-
 Time
 
 - I have a team sync on Monday.
