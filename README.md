@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
- I usually read articles while I'm on the train.
 - He likes to travel on his motorcycle.
 - In December, I will have worked at this company for two years.
 
