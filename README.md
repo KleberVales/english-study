@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- There is a big map on the wall.
 - Our main office is located on Paulista Avenue.
 
 Public Transportation and Two-Wheeled Vehicles
