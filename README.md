@@ -19,8 +19,6 @@
 
 ### 3.1 In, On and At
 
-- What are you planning to do on your birthday?
-
 Place 
 
 - Put the laptop on the desk.
