@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- I read that story in a book.
 - Who is that guy in the picture?
 
 Time
