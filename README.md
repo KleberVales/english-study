@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- He likes to travel on his motorcycle.
 - In December, I will have worked at this company for two years.
 
 Technology, Media and Electronics
