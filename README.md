@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- She posted the update on LinkedIn.
 - I am on the phone right now.
   
 ### 3.2 Of and of the
