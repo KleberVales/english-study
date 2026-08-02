@@ -19,8 +19,6 @@
 
 ### 3.1 In, On and At
 
-Technology, Media and Electronics
-
 - I found this documentation on the website.
 - She posted the update on LinkedIn.
 - I am on the phone right now.
