@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- Put the laptop on the desk.
 - There is a big map on the wall.
 - Our main office is located on Paulista Avenue.
 
