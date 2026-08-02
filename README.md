@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- I found this documentation on the website.
 - She posted the update on LinkedIn.
 - I am on the phone right now.
   
