@@ -19,8 +19,6 @@
 
 ### 3.1 In, On and At
 
-- Our main office is located on Paulista Avenue.
-
 Public Transportation and Two-Wheeled Vehicles
 
 - I usually read articles while I'm on the train.
