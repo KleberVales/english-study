@@ -19,8 +19,6 @@
 
 ### 3.1 In, On and At
 
-- In December, I will have worked at this company for two years.
-
 Technology, Media and Electronics
 
 - I found this documentation on the website.
