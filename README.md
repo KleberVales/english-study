@@ -19,7 +19,6 @@
 
 ### 3.1 In, On and At
 
-- The event will take place on July 22nd.
 - What are you planning to do on your birthday?
 
 Place 
