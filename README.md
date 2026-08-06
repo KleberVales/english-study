@@ -41,8 +41,6 @@
 
 ## present perfect
 
-They haven't called us yet.
-
 She has learned a lot of new skills recently.
 
 We have already seen this movie.
