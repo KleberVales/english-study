@@ -25,9 +25,9 @@
 #### 4.4.2 Of these
 ### 4.5 By
 
-## 4. Conjunction
+## 5. Conjunction
 
-### 4.1 as
+### 5.1 as
 
 ## 5. Verb Tense
 
