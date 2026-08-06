@@ -6,9 +6,9 @@
 ### 1.2 Past Tense
 ### 1.3 Future Tense
 
-## 1. Article
+## 2. Article
 
-### 1.1 a, an and the
+### 2.1 a, an and the
 
 ## 2. Verbs
 
