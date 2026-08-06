@@ -42,7 +42,6 @@
 ## present perfect
 
 
-She has already finished her project.
 
 They have just arrived at the station.
 
