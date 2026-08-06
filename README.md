@@ -72,9 +72,4 @@ She is the fastest runner in the competition.
 
 This is the most efficient database framework for our project.
 
-
-
-
-
-
-
+Yesterday was the hottest day of the year.
