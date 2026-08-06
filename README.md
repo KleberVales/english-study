@@ -45,6 +45,8 @@ I have worked here for five years.
 
 She has already finished her project.
 
+They have just arrived at the station.
+
 ## 5. Go, going, will
 
 ## 6. Linking Words
