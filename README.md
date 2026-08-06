@@ -41,7 +41,7 @@
 
 ## present perfect
 
-She has learned
+She has
 
 We have already seen this movie.
 
