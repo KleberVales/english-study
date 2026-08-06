@@ -51,6 +51,8 @@
 
 ## 7. Adijetive
 
+### 7.1 normal
+
 
 
 
