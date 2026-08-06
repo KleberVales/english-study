@@ -57,6 +57,8 @@ I have lost my keys.
 
 They haven't called us yet.
 
+She has learned a lot of new skills recently.
+
 ## 5. Go, going, will
 
 ## 6. Linking Words
