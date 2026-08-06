@@ -42,9 +42,6 @@
 ## present perfect
 
 
-
-We have lived in São Paulo since 2020.
-
 He has never visited Japan.
 
 Have you ever read this book?
