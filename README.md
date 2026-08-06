@@ -40,12 +40,12 @@
 
 ## 7. Go, going, will
 
-## 6. Linking Words
+## 8. Linking Words
 
-### 6.1 however
-### 6.2 directly related to
-### 6.3 despite
-### 6.4 furthermore
+### 8.1 however
+### 8.2 directly related to
+### 8.3 despite
+### 8.4 furthermore
 ### 6.5 as long as
 
 ## 7. Adjective
