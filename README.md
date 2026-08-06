@@ -49,7 +49,7 @@
 ### 6.4 furthermore
 ### 6.5 as long as
 
-## 7. Adijetive
+## 7. Adjective
 
 ### 7.1 Normal
 ### 7.2 Comparative
