@@ -41,8 +41,6 @@
 
 ## present perfect
 
-We have 
-
 ## 5. Go, going, will
 
 ## 6. Linking Words
