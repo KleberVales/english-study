@@ -52,6 +52,7 @@
 ## 7. Adijetive
 
 ### 7.1 normal
+### 7.2 comparative
 
 
 
