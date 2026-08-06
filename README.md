@@ -49,7 +49,7 @@
 ### 6.4 furthermore
 ### 6.5 as long as
 
-## 7. Superlative
+## 7. Adijetive
 
 
 
