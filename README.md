@@ -15,12 +15,11 @@
 ### 3.1 Make and do
 ### 3.2 Have
 
-## 3. Preposition
+## 4. Preposition
 
-### 3.1 In, On and At
- 
-### 3.2 Of and of the
-### 3.3 To and for
+### 4.1 In, On and At
+### 4.2 Of and of the
+### 4.3 To and for
 ### 3.4 this and these
 #### 3.4.1 Of that
 #### 3.4.2 Of these
