@@ -41,7 +41,7 @@
 
 ## present perfect
 
-We have already seen
+We have already
 
 ## 5. Go, going, will
 
