@@ -43,8 +43,6 @@
 
 
 
-They have just arrived at the station.
-
 We have lived in São Paulo since 2020.
 
 He has never visited Japan.
