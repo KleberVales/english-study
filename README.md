@@ -46,9 +46,9 @@
 ### 8.2 directly related to
 ### 8.3 despite
 ### 8.4 furthermore
-### 6.5 as long as
+### 8.5 as long as
 
-## 7. Adjective
+## 9. Adjective
 
 ### 7.1 Normal
 ### 7.2 Comparative
