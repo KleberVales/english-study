@@ -47,6 +47,8 @@ She has already finished her project.
 
 They have just arrived at the station.
 
+We have lived in São Paulo since 2020.
+
 ## 5. Go, going, will
 
 ## 6. Linking Words
