@@ -53,6 +53,8 @@ He has never visited Japan.
 
 Have you ever read this book?
 
+I have lost my keys.
+
 ## 5. Go, going, will
 
 ## 6. Linking Words
