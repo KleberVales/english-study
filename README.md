@@ -41,9 +41,6 @@
 
 ## present perfect
 
-
-He has never visited Japan.
-
 Have you ever read this book?
 
 I have lost my keys.
