@@ -41,7 +41,7 @@
 
 ## present perfect
 
-She has learned a lot of new skills
+She has learned a lot of new 
 
 We have already seen this movie.
 
