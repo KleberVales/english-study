@@ -41,7 +41,6 @@
 
 ## present perfect
 
-I have worked here for five years.
 
 She has already finished her project.
 
