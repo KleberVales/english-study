@@ -50,9 +50,9 @@
 
 ## 9. Adjective
 
-### 7.1 Normal
-### 7.2 Comparative
-### 7.3 Superlative
+### 9.1 Normal
+### 9.2 Comparative
+### 9.3 Superlative
 
 
 
