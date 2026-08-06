@@ -41,8 +41,6 @@
 
 ## present perfect
 
-I have lost my keys.
-
 They haven't called us yet.
 
 She has learned a lot of new skills recently.
