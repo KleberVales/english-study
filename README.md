@@ -51,6 +51,8 @@ We have lived in São Paulo since 2020.
 
 He has never visited Japan.
 
+Have you ever read this book?
+
 ## 5. Go, going, will
 
 ## 6. Linking Words
