@@ -41,7 +41,7 @@
 
 ## present perfect
 
-She has learned a lo
+She has learned
 
 We have already seen this movie.
 
