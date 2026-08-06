@@ -41,8 +41,6 @@
 
 ## present perfect
 
-She has
-
 We have already seen this movie.
 
 ## 5. Go, going, will
