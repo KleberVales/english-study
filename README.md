@@ -10,10 +10,10 @@
 
 ### 2.1 a, an and the
 
-## 2. Verbs
+## 3. Verbs
 
-### 2.1 Make and do
-### 2.2 Have
+### 3.1 Make and do
+### 3.2 Have
 
 ## 3. Preposition
 
