@@ -41,7 +41,7 @@
 
 ## present perfect
 
-We have already
+We have 
 
 ## 5. Go, going, will
 
