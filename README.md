@@ -55,6 +55,6 @@
 ### 9.3 Superlative
 
 
-This is the most efficient database framework
+This is the most efficient database
 
 Yesterday was the hottest day of the year.
