@@ -54,7 +54,7 @@
 ### 9.2 Comparative
 ### 9.3 Superlative
 
-She is the fastest runner in the competition.
+She is the fastest runner in the 
 
 This is the most efficient database framework for our project.
 
