@@ -54,7 +54,6 @@
 ### 9.2 Comparative
 ### 9.3 Superlative
 
-This is the highest building in the city.
 
 She is the smartest engineer on the team.
 
