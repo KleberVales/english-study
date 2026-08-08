@@ -55,6 +55,6 @@
 ### 9.3 Superlative
 
 
-This is the most efficient database framework for our project.
+This is the most efficient database framework for our 
 
 Yesterday was the hottest day of the year.
