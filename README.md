@@ -54,7 +54,7 @@
 ### 9.2 Comparative
 ### 9.3 Superlative
 
-She is the fastest runner in the 
+She is the fastest runner 
 
 This is the most efficient database framework for our project.
 
