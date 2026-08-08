@@ -54,8 +54,6 @@
 ### 9.2 Comparative
 ### 9.3 Superlative
 
-It was the worst day of my week.
-
 Mount Everest is the most famous mountain in the world.
 
 She is the fastest runner in the competition.
