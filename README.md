@@ -54,7 +54,6 @@
 ### 9.2 Comparative
 ### 9.3 Superlative
 
-She is the fastest
 
 This is the most efficient database framework for our project.
 
