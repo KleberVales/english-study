@@ -55,4 +55,4 @@
 ### 9.3 Superlative
 
 
-Yesterday was the hottest day of the year.
+Yesterday was the hottest day of the 
