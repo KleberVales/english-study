@@ -51,6 +51,5 @@
 ## 9. Adjective
 
 ### 9.1 Normal
-### 9.2 Comparative
 
 
