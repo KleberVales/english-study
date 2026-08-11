@@ -52,6 +52,5 @@
 
 ### 9.1 Normal
 ### 9.2 Comparative
-### 9.3 Superlative
 
 
