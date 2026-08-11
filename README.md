@@ -25,6 +25,7 @@
    - Please do your homework before you turn on the television.
    - Can you do me a quick favor and hold this box for a moment?
    - We need to do the laundry before leaving for our weekend trip.
+   - Regular physical exercise will do wonders for your energy levels.
 
   
 ### 3.2 Have
