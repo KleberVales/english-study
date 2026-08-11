@@ -15,7 +15,8 @@
 ### 3.1 Make and do
 
 - Make (creating, producing, or causing a result)
-- 
+   - I need to make a phone call to confirm our reservation tonight.
+     
 ### 3.2 Have
 
 ## 4. Preposition
