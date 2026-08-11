@@ -48,7 +48,4 @@
 ### 8.4 furthermore
 ### 8.5 as long as
 
-## 9. Adjective
-
-
 
