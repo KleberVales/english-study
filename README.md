@@ -39,5 +39,3 @@
 | Perfect Continuous (Cumulative duration) | Present Perfect Cont.<br>(I have been working) | Past Perfect Cont.<br>(I had been working) | Future Perfect Cont.<br>(I will have been working) |
 
 ## 7. Go, going, will
-
-## 8. Linking 
