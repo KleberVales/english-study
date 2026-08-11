@@ -46,6 +46,5 @@
 ### 8.2 directly related to
 ### 8.3 despite
 ### 8.4 furthermore
-### 8.5 as long as
 
 
