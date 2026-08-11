@@ -13,6 +13,9 @@
 ## 3. Verbs
 
 ### 3.1 Make and do
+
+- Make (creating, producing, or causing a result)
+- 
 ### 3.2 Have
 
 ## 4. Preposition
