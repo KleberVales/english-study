@@ -19,6 +19,7 @@
    - She loves to make fresh pasta from scratch every Sunday afternoon.
    - Don't worry about making mistakes—they are an essential part of learning.
    - The team will make a final decision regarding the project budget tomorrow.
+   - He always manages to make everyone laugh, even on a long day.
      
 ### 3.2 Have
 
