@@ -26,6 +26,7 @@
    - Can you do me a quick favor and hold this box for a moment?
    - We need to do the laundry before leaving for our weekend trip.
    - Regular physical exercise will do wonders for your energy levels.
+   - She always tries her best to do a good job, no matter how small the task is.
 
   
 ### 3.2 Have
