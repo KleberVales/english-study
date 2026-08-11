@@ -24,6 +24,7 @@
 - Do (actions, tasks, routines, or general activities)
    - Please do your homework before you turn on the television.
    - Can you do me a quick favor and hold this box for a moment?
+   - We need to do the laundry before leaving for our weekend trip.
 
   
 ### 3.2 Have
