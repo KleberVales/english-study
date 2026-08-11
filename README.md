@@ -40,4 +40,4 @@
 
 ## 7. Go, going, will
 
-## 8. Linking Words
+## 8. Linking 
