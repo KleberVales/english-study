@@ -43,6 +43,4 @@
 ## 8. Linking Words
 
 ### 8.1 however
-### 8.2 directly related to
-
-
+### 8.2 directly 
