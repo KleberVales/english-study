@@ -50,6 +50,5 @@
 
 ## 9. Adjective
 
-### 9.1 Normal
 
 
