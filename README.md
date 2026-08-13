@@ -13,17 +13,7 @@
 ## 3. Verbs
 
 ### 3.1 Make and do
-
-- Make (creating, producing, or causing a result)
-   - I need to make a phone call to confirm our reservation tonight.
-   - She loves to make fresh pasta from scratch every Sunday afternoon.
-   - Don't worry about making mistakes—they are an essential part of learning.
-   - The team will make a final decision regarding the project budget tomorrow.
-   - He always manages to make everyone laugh, even on a long day.
-
-
-
-  
+ 
 ### 3.2 Have
 
 ## 4. Preposition
