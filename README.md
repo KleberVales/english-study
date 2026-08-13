@@ -21,12 +21,7 @@
    - The team will make a final decision regarding the project budget tomorrow.
    - He always manages to make everyone laugh, even on a long day.
 
-- Do (actions, tasks, routines, or general activities)
-   - Please do your homework before you turn on the television.
-   - Can you do me a quick favor and hold this box for a moment?
-   - We need to do the laundry before leaving for our weekend trip.
-   - Regular physical exercise will do wonders for your energy levels.
-   - She always tries her best to do a good job, no matter how small the task is.
+
 
   
 ### 3.2 Have
