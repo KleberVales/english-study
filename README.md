@@ -48,6 +48,7 @@
 - We are going on vacation next week.
 - They are going to eat dinner soon.
 - I will call you tomorrow.
+- He will help us with the project.
 
 
 
