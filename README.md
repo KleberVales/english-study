@@ -43,4 +43,6 @@
 
 - Go to school every morning.
 - Let’s go shopping this afternoon.
+- I usually go running in the park.
+- She is going to the gym right now.
 
