@@ -41,3 +41,5 @@
 
 ## 7. Go, Going and Will
 
+- Go to school every morning.
+
