@@ -3,8 +3,9 @@
 ## 1. to be
 
 ### 1.1 Present Tense
-I am happy today.
-She is a teacher.
+I am happy today.\
+She is a teacher.\
+They are friends.\
 
 
 ### 1.2 Past Tense
