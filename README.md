@@ -10,7 +10,10 @@ They are friends.
 
 ### 1.2 Past Tense
 
-I was tired yesterday.
+I was tired yesterday.\
+He was at home last night.
+
+
 
 
 
