@@ -3,6 +3,7 @@
 ## 1. to be
 
 ### 1.1 Present Tense
+I am happy today.
 ### 1.2 Past Tense
 ### 1.3 Future Tense
 
