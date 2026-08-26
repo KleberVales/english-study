@@ -4,6 +4,9 @@
 
 ### 1.1 Present Tense
 I am happy today.
+She is a teacher.
+
+
 ### 1.2 Past Tense
 ### 1.3 Future Tense
 
