@@ -20,6 +20,10 @@ We were excited about the trip.
 
 ### 1.3 Future Tense
 
+I will be ready soon.\
+
+
+
 ## 2. Article
 
 ### 2.1 a, an and the
