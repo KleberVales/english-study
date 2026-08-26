@@ -5,10 +5,15 @@
 ### 1.1 Present Tense
 I am happy today.\
 She is a teacher.\
-They are friends.\
+They are friends.
 
 
 ### 1.2 Past Tense
+
+I was tired yesterday.
+
+
+
 ### 1.3 Future Tense
 
 ## 2. Article
