@@ -4,15 +4,6 @@
 
 ### 1.1 Present Tense
 ### 1.2 Past Tense
-
-I was tired yesterday.\
-He was at home last night.\
-We were excited about the trip.
-
-
-
-
-
 ### 1.3 Future Tense
 
 I will be ready soon.\
