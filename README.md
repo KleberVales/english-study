@@ -6,14 +6,6 @@
 ### 1.2 Past Tense
 ### 1.3 Future Tense
 
-I will be ready soon.\
-She will be famous one day.\
-They will be here tomorrow.
-
-
-
-
-
 ## 2. Article
 
 ### 2.1 a, an and the
