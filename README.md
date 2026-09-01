@@ -32,6 +32,8 @@
 
 ## 6. Verb Tense
 
+### Simple
+
 | Aspect | Present  | Past  | Future  |
 |---------|---------------------|----------------|------------------|
 | Simple (Pure action / Fact ) | Simple Present<br>(I work) | Simple Past<br>(I worked) | Simple Future<br>(I will work) |
