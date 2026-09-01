@@ -32,7 +32,7 @@
 
 ## 6. Verb Tense
 
-### Simple
+### Simple, Continuous
 
 | Aspect | Present  | Past  | Future  |
 |---------|---------------------|----------------|------------------|
