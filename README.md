@@ -49,7 +49,6 @@
 - They are going to eat dinner soon.
 - I will call you tomorrow.
 - He will help us with the project.
-- We will travel to Europe next year.
 
 
 
