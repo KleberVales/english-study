@@ -45,6 +45,8 @@
 - Would you like some coffee?
 - I would never lie to you.
 - When I was a child, I would play outside every afternoon.
+- He would have finished the project if he'd had more resources.
+
 
 
 
