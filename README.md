@@ -48,6 +48,8 @@
 - He would have finished the project if he'd had more resources.
 - Would you mind closing the window?
 - They would often visit their grandparents on weekends.
+- I would rather stay home tonight than go to the party.
+
 
 
 
