@@ -49,6 +49,7 @@
 - Would you mind closing the window?
 - They would often visit their grandparents on weekends.
 - I would rather stay home tonight than go to the party.
+- If she studied harder, she would pass the exam easily.
 
 
 
