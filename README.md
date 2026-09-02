@@ -40,25 +40,6 @@
 
 ### Would
 
-- If I had more time, I would travel around the world.
-- She said she would call me later tonight.
-- Would you like some coffee?
-- I would never lie to you.
-- When I was a child, I would play outside every afternoon.
-- He would have finished the project if he'd had more resources.
-- Would you mind closing the window?
-- They would often visit their grandparents on weekends.
-- I would rather stay home tonight than go to the party.
-- If she studied harder, she would pass the exam easily.
-
-
-
-
-
-
-
-
-
 
 
 
