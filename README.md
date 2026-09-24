@@ -32,7 +32,7 @@
 
 ## 6. Verb Tense
 
-### Simple, Continuous, Perfect and Perfect Continuous
+### Simple, Continuous, Perfect
 
 ## 7. Go, Going and Will
 
