@@ -32,8 +32,6 @@
 
 ## 6. Verb Tense
 
-### Simpl
-
 ## 7. Go, Going and Will
 
 ## 8. Linking Words
