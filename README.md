@@ -30,3 +30,49 @@
 ## Reading
 
 
+
+## Listening
+
+I have two siblings and a dog.
+
+We have a meeting scheduled for 10:00 AM tomorrow.
+
+They have a beautiful house near the beach.
+
+I have to finish this project before the end of the week.
+
+Do you have time to grab a coffee this afternoon?
+
+You have a great point, and I agree with your idea.
+
+We have been working on this proposal all morning.
+
+She and her brother have the same green eyes.
+
+I don't have any extra keys for the front door.
+
+They have lived in this city for over ten years.
+
+---
+
+I would love to visit Japan someday.
+
+What would you do if you won the lottery?
+
+He said he would call me as soon as he arrived.
+
+Would you like a cup of tea or coffee?
+
+If I had more time, I would learn how to play the piano.
+
+When we were kids, we would spend all summer playing outside.
+
+Would you mind opening the window for a minute?
+
+I would help you move, but I have to work this weekend.
+
+She would always order the exact same dish at that restaurant.
+
+It would be great if we could finalize this decision today.
+
+
