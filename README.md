@@ -2,17 +2,16 @@
 
 ## Writing
 
-- Amanha eu vou lavar as roupas
-- hoje eu estou com dor e nao consigo sair da cama
-- hoje eu só estou descançando
-- acabei de tomar café
-- hoje é dia de trabalhar muito
-  
-- o computador esta ligado e eu nao estou usando
-- ja esta na hora de aprender ingles
-- esta muito calor aqui
-- eu tenho que tomar remedio 11 horas da noite
-- Eu tenho que estudar para a certificaçao
+1. Amanha eu vou lavar as roupas
+2. hoje eu estou com dor e nao consigo sair da cama
+3. hoje eu só estou descançando
+4. acabei de tomar café
+5. hoje é dia de trabalhar muito
+6. o computador esta ligado e eu nao estou usando
+7. ja esta na hora de aprender ingles
+8. esta muito calor aqui
+9. eu tenho que tomar remedio 11 horas da noite
+10. Eu tenho que estudar para a certificaçao
 
 ---
 
