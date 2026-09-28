@@ -1,5 +1,7 @@
 # english-study
 
+## Reading
+
 ## Writing
 
 1. Amanha eu vou lavar as roupas
@@ -26,9 +28,6 @@
 - it's very hot here
 - I have to take my medicine at 11 pm
 - I have to study for the certification
-
-## Reading
-
 
 
 ## Listening
