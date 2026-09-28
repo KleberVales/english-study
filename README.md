@@ -14,6 +14,8 @@
 - eu tenho que tomar remedio 11 horas da noite
 - Eu tenho que estudar para a certificaçao
 
+---
+
 - Tomorrow I going to do the laundry
 - today I in pain and I can not get out of bed
 - today I am just resting
