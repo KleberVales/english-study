@@ -74,6 +74,28 @@ She would always order the exact same dish at that restaurant.
 
 It would be great if we could finalize this decision today.
 
+---
+
+I was reading a book when the power went out last night.
+
+They were very excited about the upcoming weekend trip.
+
+She was the top student in her graduating class.
+
+We were waiting at the train station for over an hour.
+
+It was raining heavily, so we decided to stay indoors.
+
+You were right about that movie—it was fantastic!
+
+The children were playing happily in the backyard.
+
+He was tired after working a twelve-hour shift.
+
+My friends were sitting at the table near the entrance.
+
+The coffee was too hot to drink right away.
+
 ## Speaking
 
 To understand object-oriented programming, it's necessary to understand the evolution of programming. Before, there were no paradigms, and code was scattered. There was an evolution to structured programming and then to object-oriented programming, where methods and variables are interconnected. Object-oriented programming, therefore, deals with how the system is structured. Programming logic deals with the study of algorithms and how to create them. SOLID principles, Design Patterns, and internal organizational architecture address how classes communicate with each other.
