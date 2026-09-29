@@ -12,7 +12,7 @@
 6. o computador esta ligado e eu nao estou usando
 7. ja esta na hora de aprender ingles
 8. esta muito calor aqui
-9. eu tenho que tomar remedio 11 horas da noite
+9. eu tenho que tomar remedio 11  noite
 10. Eu tenho que estudar para a certificaçao
 
 ---
