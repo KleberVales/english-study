@@ -80,6 +80,8 @@ It would be great if we could finalize this decision today.
 
 ---
 
+### was and were
+
 I was reading a book when the power went out last night.
 
 They were very excited about the upcoming weekend trip.
