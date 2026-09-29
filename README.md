@@ -111,4 +111,4 @@ I didn't go to the grocery store yesterday.
 
 ## Speaking
 
-To understand object-oriented programming, it's necessary to understand the evolution of programming. 
+To understand object-oriented programming, it's necessary to understand the evolution of 
