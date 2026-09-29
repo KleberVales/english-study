@@ -102,6 +102,10 @@ My friends were sitting at the table near the entrance.
 
 The coffee was too hot to drink right away.
 
+---
+
+### did not
+
 ## Speaking
 
 To understand object-oriented programming, it's necessary to understand the evolution of programming. Before, there were no paradigms, and code was scattered. There was an evolution to structured programming and then to object-oriented programming, where methods and variables are interconnected. Object-oriented programming, therefore, deals with how the system is structured. Programming logic deals with the study of algorithms and how to create them. SOLID principles, Design Patterns, and internal organizational architecture address how classes communicate with each other.
