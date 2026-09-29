@@ -104,7 +104,7 @@ The coffee was too hot to drink right away.
 
 ---
 
-### did not
+### do and did
 
 I went to the grocery store yesterday.  
 I didn't go to the grocery store yesterday.
