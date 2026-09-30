@@ -109,4 +109,46 @@ The coffee was too hot to drink right away.
 I went to the grocery store yesterday.  
 I didn't go to the grocery store yesterday.
 
+### Go
+
+I go to the gym every morning.
+
+I went to the gym yesterday.
+
+We go to the supermarket on weekends.
+
+We went to the supermarket two days ago.
+
+They go to the beach during the summer.
+
+They went to the beach last holiday.
+
+You go to bed early on weekdays.
+
+You went to bed early last night.
+
+I go to work by bike every day.
+
+I went to work by bike this morning.
+
+We go to that restaurant every Friday.
+
+We went to that restaurant last Friday.
+
+They go to the park to walk their dog.
+
+They went to the park an hour ago.
+
+You go to the library to study.
+
+You went to the library after class.
+
+I go to the coffee shop before starting my shift.
+
+I went to the coffee shop before my shift started.
+
+We go to our friends' house on holidays.
+
+We went to our friends' house last Christmas.
+
 ## Speaking
