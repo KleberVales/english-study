@@ -34,26 +34,6 @@
 
 ### Have
 
-I have two siblings and a dog.
-
-We have a meeting scheduled for 10:00 AM tomorrow.
-
-They have a beautiful house near the beach.
-
-I have to finish this project before the end of the week.
-
-Do you have time to grab a coffee this afternoon?
-
-You have a great point, and I agree with your idea.
-
-We have been working on this proposal all morning.
-
-She and her brother have the same green eyes.
-
-I don't have any extra keys for the front door.
-
-They have lived in this city for over ten years.
-
 ---
 
 ### Would 
