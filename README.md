@@ -34,101 +34,44 @@
 
 ### Have
 
+She has just finished reading the entire novel in a single afternoon.I have lived in São Paulo for over five years, so I know the city very well.
+
+She has just finished reading the entire novel in a single afternoon.
+
+They have been working on this software update since early this morning.
+
+By the time the storm began, we had already secured all the outdoor furniture.
+
+He had never seen snow before he moved to Canada during the winter.
+
+The team had been training for six months before the championship match was officially canceled.
+
+By midnight tonight, the scientists will have completed the final trial of the experiment.
+
+ She will have graduated from university long before her younger brother enters high school.
+
+By next December, my parents will have been living in their new home for ten years.
+
+All the concert tickets had already been sold out before I even logged onto the website.
+
 ---
 
 ### Would 
 
-I would love to visit Japan someday.
-
-What would you do if you won the lottery?
-
-He said he would call me as soon as he arrived.
-
-Would you like a cup of tea or coffee?
-
-If I had more time, I would learn how to play the piano.
-
-When we were kids, we would spend all summer playing outside.
-
-Would you mind opening the window for a minute?
-
-I would help you move, but I have to work this weekend.
-
-She would always order the exact same dish at that restaurant.
-
-It would be great if we could finalize this decision today.
 
 ---
 
 ### was and were
 
-I was reading a book when the power went out last night.
-
-They were very excited about the upcoming weekend trip.
-
-She was the top student in her graduating class.
-
-We were waiting at the train station for over an hour.
-
-It was raining heavily, so we decided to stay indoors.
-
-You were right about that movie—it was fantastic!
-
-The children were playing happily in the backyard.
-
-He was tired after working a twelve-hour shift.
-
-My friends were sitting at the table near the entrance.
-
-The coffee was too hot to drink right away.
 
 ---
 
 ### do and did
 
-I went to the grocery store yesterday.  
-I didn't go to the grocery store yesterday.
+
 
 ### Go
 
-I go to the gym every morning.
 
-I went to the gym yesterday.
-
-We go to the supermarket on weekends.
-
-We went to the supermarket two days ago.
-
-They go to the beach during the summer.
-
-They went to the beach last holiday.
-
-You go to bed early on weekdays.
-
-You went to bed early last night.
-
-I go to work by bike every day.
-
-I went to work by bike this morning.
-
-We go to that restaurant every Friday.
-
-We went to that restaurant last Friday.
-
-They go to the park to walk their dog.
-
-They went to the park an hour ago.
-
-You go to the library to study.
-
-You went to the library after class.
-
-I go to the coffee shop before starting my shift.
-
-I went to the coffee shop before my shift started.
-
-We go to our friends' house on holidays.
-
-We went to our friends' house last Christmas.
 
 ## Speaking
