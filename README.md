@@ -34,7 +34,9 @@
 
 ### Have
 
-She has just finished reading the entire novel in a single afternoon.I have lived in São Paulo for over five years, so I know the city very well.
+She has just finished reading the entire novel in a single afternoon.
+
+I have lived in São Paulo for over five years, so I know the city very well.
 
 She has just finished reading the entire novel in a single afternoon.
 
