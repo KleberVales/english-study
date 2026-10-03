@@ -60,23 +60,11 @@ All the concert tickets had already been sold out before I even logged onto the 
 
 Every summer when we were kids, my grandfather would take us fishing at the lake every morning.
 
-If I had more free time, I would learn how to play the acoustic guitar.
-
-Would you mind closing the window, as it is getting a bit cold in here?
-
 She mentioned last week that she would send the updated project proposal by Friday.
-
-I would be happy to give you a ride to the train station if you need one.
 
 I tried to fix the old lawnmower, but the engine simply would not start.
 
-Given the choice between staying in or going out tonight, I would rather stay home and read.
-
-If they had left ten minutes earlier, they would have caught the bus.
-
 I would imagine that organizing such a large conference requires months of planning.
-
-We would like to reserve a table for four people this Saturday evening.
 
 
 ---
