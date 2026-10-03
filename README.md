@@ -34,25 +34,23 @@
 
 ### Have
 
-She has just finished reading the entire novel in a single afternoon.
+They have completed the entire code refactoring ahead of schedule.
 
-I have lived in São Paulo for over five years, so I know the city very well.
+She has lived in the same apartment building for almost seven years.
 
-She has just finished reading the entire novel in a single afternoon.
+We have been testing the new API endpoints all morning to check for latency issues.
 
-They have been working on this software update since early this morning.
+By the time the database server went offline, the automated backup had already finished.
+
+He realized he had forgotten his laptop charger only after arriving at the office.
+
+By the end of this month, the engineering team will have deployed three major system updates.
+
+Before her trip to Europe next summer, she will have saved enough money for the entire vacation.
 
 By the time the storm began, we had already secured all the outdoor furniture.
 
-He had never seen snow before he moved to Canada during the winter.
-
-The team had been training for six months before the championship match was officially canceled.
-
-By midnight tonight, the scientists will have completed the final trial of the experiment.
-
- She will have graduated from university long before her younger brother enters high school.
-
-By next December, my parents will have been living in their new home for ten years.
+She will have graduated from university long before her younger brother enters high school.
 
 All the concert tickets had already been sold out before I even logged onto the website.
 
