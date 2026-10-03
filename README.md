@@ -29,25 +29,25 @@ Eu gosto de estudar pela manhã.
 
 ### Have
 
-They have completed the entire code refactoring ahead of schedule.
+I have known her since we were children.
 
-She has lived in the same apartment building for almost seven years.
+He has broken his phone again.
 
-We have been testing the new API endpoints all morning to check for latency issues.
+We have lost the keys to the house.
 
-By the time the database server went offline, the automated backup had already finished.
+You have grown so much this year.
 
-He realized he had forgotten his laptop charger only after arriving at the office.
+The train had left before we reached the station.
 
-By the end of this month, the engineering team will have deployed three major system updates.
+She had never seen snow until she visited Canada.
 
-Before her trip to Europe next summer, she will have saved enough money for the entire vacation.
+They had finished dinner when the guests arrived.
 
-By the time the storm began, we had already secured all the outdoor furniture.
+By December, she will have saved enough money for the trip.
 
-She will have graduated from university long before her younger brother enters high school.
+I will have read the entire book by tomorrow night.
 
-All the concert tickets had already been sold out before I even logged onto the website.
+By the time we arrive, the concert will have ended.
 
 ---
 
