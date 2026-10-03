@@ -85,6 +85,26 @@ We would like to reserve a table for four people this Saturday evening.
 
 ### was and were
 
+The software architecture was remarkably clean and well-structured, making future maintenance straightforward.
+
+All the server logs were thoroughly reviewed by the engineering team following the scheduled maintenance.
+
+She was debugging a complex memory leak when the system administrator called with an update.
+
+The researchers were analyzing the experimental data late into the evening.
+
+You were the first person to notice the discrepancy in the quarterly financial report.
+
+The critical patch was deployed across all production environments before midnight.
+
+Multiple unit tests were executed automatically during the build process to ensure stability.
+
+If I were in your position, I would double-check the integration endpoints before launch.
+
+Both the database administrator and the lead developer were present at the technical review.
+
+There was a subtle error in the configuration file, but fortunately, there were plenty of backups available to restore the system.
+
 
 ---
 
