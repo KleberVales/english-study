@@ -29,25 +29,6 @@ Eu gosto de estudar pela manhã.
 
 ### Have
 
-I have known her since we were children.
-
-He has broken his phone again.
-
-We have lost the keys to the house.
-
-You have grown so much this year.
-
-The train had left before we reached the station.
-
-She had never seen snow until she visited Canada.
-
-They had finished dinner when the guests arrived.
-
-By December, she will have saved enough money for the trip.
-
-I will have read the entire book by tomorrow night.
-
-By the time we arrive, the concert will have ended.
 
 ---
 
