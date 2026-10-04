@@ -34,13 +34,7 @@ Eu gosto de estudar pela manhã.
 
 ### Would 
 
-Every summer when we were kids, my grandfather would take us fishing at the lake every morning.
 
-She mentioned last week that she would send the updated project proposal by Friday.
-
-I tried to fix the old lawnmower, but the engine simply would not start.
-
-I would imagine that organizing such a large conference requires months of planning.
 
 
 ---
