@@ -16,6 +16,10 @@ estou com o tornozelo operado e por isso não posso sair de casa.
 
 Morando em Sao Paulo sozinho, estou gostando e bastante otimista é um bom lugar.
 
+Preciso lavar minha moto hoje.
+
+Vou preparar o almoço.
+
 
 ## Listening
 
