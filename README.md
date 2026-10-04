@@ -4,23 +4,26 @@
 
 ## Writing
 
-Eu vou escovar os dentes.
+Há quanto tempo você está aqui?
 
-Eu gosto de estudar pela manhã.
+Com o que você trabalha?
 
-Hoje é dia de eleição para presidente do Brasil.
+Eu estou procurando o aeroporto. 
 
-a primeira eleição que eu não vou votar desde 2010.
+Voce pode me dizer como chegar lá?
 
-estou com o tornozelo operado e por isso não posso sair de casa. 
+Você sabe onde é o metrô?
 
-Morando em Sao Paulo sozinho, estou gostando e bastante otimista é um bom lugar.
+Claro, é logo alí.
 
-Preciso lavar minha moto hoje.
+Do outro lado da rua.
 
-Vou preparar o almoço.
+Você sabe se tem algum banheiro por aqui?
 
+Eu estou com fome. Eu gostaria de comer alguma coisa.
 
+Onde você quer ir?
+ 
 ## Listening
 
 ### Have
