@@ -82,7 +82,7 @@ By tomorrow morning, the snow will have melted.
 
 I will have cleaned the whole house before they come.
 
-Will she have 
+Will she
 ### Have
 
 
