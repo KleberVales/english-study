@@ -80,7 +80,7 @@ You will have learned a lot by the end of the semester.
 
 By tomorrow morning, the snow will have melted.
 
-I will have cleaned the whole house before they come.
+I will have cleaned the whole house before they 
 
 ### Have
 
