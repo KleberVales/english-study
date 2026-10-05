@@ -84,7 +84,7 @@ I will have cleaned the whole house before they come.
 
 Will she have completed her degree by next summer?
 
-By the tim
+By the
 
 ### Have
 
