@@ -30,55 +30,25 @@ Eu nunca o tinha visto antes de ontem.
  
 ## Listening
 
-She has already left the office.
+She had already left when I got to the party.
 
-We have just arrived at the airport.
+We had never seen such a beautiful beach before that trip.
 
-He has written five books so far.
+He had studied for hours, so he passed the exam easily.
 
-You have changed a lot since high school.
+The store had closed by the time they arrived.
 
-The children have eaten all the cookies.
+I had lost my keys before I realized the door was locked.
 
-I have seen that movie twice.
+They had finished the project before the deadline.
 
-My sister has lived abroad since 2020.
+By the time the doctor came, the patient had recovered.
 
-Have you ever been to Argentina?
+She had worked in Paris for years before she moved to Rome.
 
-She had already gone to bed when I called.
+Had you ever tried Japanese food before you visited Tokyo?
 
-They had waited for two hours before the bus came.
-
-I had never met him before yesterday.
-
-He had forgotten his wallet, so he went back home.
-
-We had just sat down when the show began.
-
-The teacher had explained the lesson before the test.
-
-She felt nervous because she had never flown before.
-
-By the time I woke up, everyone had left.
-
-They had lived in Rio before they moved to Curitiba.
-
-Had you finished the report before the meeting started?
-
-By next week, I will have finished this course.
-
-She will have arrived by the time you call.
-
-They will have built the bridge by the end of the year.
-
-By 2030, he will have worked here for twenty years.
-
-We will have eaten dinner before the movie starts.
-
-You will have learned a lot by the end of the semester.
-
-By tomorrow morning, the snow will have melted.
+The movie had already started when we found our seats.
 
 ### Have
 
