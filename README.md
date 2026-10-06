@@ -8,8 +8,6 @@ Há quanto tempo você está aqui?
 
 Com o que você trabalha?
 
-Eu estou procurando o aeroporto. 
-
 Voce pode me dizer como chegar lá?
 
 Você sabe onde é o metrô?
