@@ -26,11 +26,7 @@ Quando liguei, eles já tinham ido dormir.
  
 ## Listening
 
-She had already left when I got to the party.
-
-We had never seen such a beautiful beach before that trip.
-
-He had studied for hours, so he passed the exam easily.
+She had worked in Paris for years before she moved to Rome.
 
 The store had closed by the time they arrived.
 
@@ -39,12 +35,6 @@ I had lost my keys before I realized the door was locked.
 They had finished the project before the deadline.
 
 By the time the doctor came, the patient had recovered.
-
-She had worked in Paris for years before she moved to Rome.
-
-Had you ever tried Japanese food before you visited Tokyo?
-
-The movie had already started when we found our seats.
 
 ### Have
 
