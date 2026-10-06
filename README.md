@@ -4,8 +4,6 @@
 
 ## Writing
 
-Ele nunca tinha dirigido um carro antes de completar dezoito anos.
-
 Os convidados já tinham comido quando servimos a sobremesa.
 
 Eu tinha esquecido meu guarda-chuva, então fiquei encharcado pela chuva.
@@ -23,6 +21,8 @@ Ele estava feliz porque tinha ganhado a competição.
 Ela tinha te contado sobre o problema antes da reunião?
 
 Quando liguei, eles já tinham ido dormir.
+
+
  
 ## Listening
 
