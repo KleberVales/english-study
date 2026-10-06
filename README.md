@@ -4,29 +4,25 @@
 
 ## Writing
 
-Há quanto tempo você está aqui?
+Ele nunca tinha dirigido um carro antes de completar dezoito anos.
 
-Com o que você trabalha?
+Os convidados já tinham comido quando servimos a sobremesa.
 
-Voce pode me dizer como chegar lá?
+Eu tinha esquecido meu guarda-chuva, então fiquei encharcado pela chuva.
 
-Você sabe onde é o metrô?
+Ela esperou uma hora até o ônibus finalmente chegar.
 
-Claro, é logo alí.
+Tínhamos acabado de limpar quando nossos amigos apareceram.
 
-Do outro lado da rua.
+Eles viajaram para a Espanha duas vezes antes de decidirem morar lá.
 
-Você sabe se tem algum banheiro por aqui?
+O avião já tinha decolado quando cheguei ao portão de embarque.
 
-Eu estou com fome. Eu gostaria de comer alguma coisa.
+Ele estava feliz porque tinha ganhado a competição.
 
-Onde você quer ir?
+Ela tinha te contado sobre o problema antes da reunião?
 
-Ela já tinha ido para a cama quando liguei.
-
-Eles esperaram duas horas até o ônibus chegar.
-
-Eu nunca o tinha visto antes de ontem.
+Quando liguei, eles já tinham ido dormir.
  
 ## Listening
 
