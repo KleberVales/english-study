@@ -21,14 +21,16 @@ Você sabe se tem algum banheiro por aqui?
 Eu estou com fome. Eu gostaria de comer alguma coisa.
 
 Onde você quer ir?
+
+Ela já tinha ido para a cama quando liguei.
+
+Eles esperaram duas horas até o ônibus chegar.
+
+Eu nunca o tinha visto antes de ontem.
  
 ## Listening
 
-I have worked here for three years.
-
 She has already left the office.
-
-They have never tried sushi.
 
 We have just arrived at the airport.
 
