@@ -13,16 +13,6 @@ Ela esperou uma hora até o ônibus finalmente chegar.
 Tínhamos acabado de limpar quando nossos amigos apareceram.
 
 Eles viajaram para a Espanha duas vezes antes de decidirem morar lá.
-
-O avião já tinha decolado quando cheguei ao portão de embarque.
-
-Ele estava feliz porque tinha ganhado a competição.
-
-Ela tinha te contado sobre o problema antes da reunião?
-
-Quando liguei, eles já tinham ido dormir.
-
-
  
 ## Listening
 
