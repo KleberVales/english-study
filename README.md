@@ -16,10 +16,6 @@ Eles viajaram para a Espanha duas vezes antes de decidirem morar lá.
  
 ## Listening
 
-The baby had fallen asleep before we got home.
-
-I had never tasted mango until I visited Brazil.
-
 They had painted the walls before the furniture arrived.
 
 She had already submitted her application when the deadline changed.
