@@ -16,15 +16,25 @@ Eles viajaram para a Espanha duas vezes antes de decidirem morar lá.
  
 ## Listening
 
-She had worked in Paris for years before she moved to Rome.
+The baby had fallen asleep before we got home.
 
-The store had closed by the time they arrived.
+I had never tasted mango until I visited Brazil.
 
-I had lost my keys before I realized the door was locked.
+They had painted the walls before the furniture arrived.
 
-They had finished the project before the deadline.
+She had already submitted her application when the deadline changed.
 
-By the time the doctor came, the patient had recovered.
+We had walked for miles before we found a place to rest.
+
+He had broken his leg, so he couldn't play in the final.
+
+The manager had left the office before the call came in.
+
+I had read the book before I watched the movie.
+
+Had they known about the delay before they left home?
+
+She had saved enough money, so she bought the car.
 
 ### Have
 
