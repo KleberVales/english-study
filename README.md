@@ -4,6 +4,15 @@
 
 ## Writing
 
+Eles moraram na mesma cidade por anos antes de se tornarem amigos.
+
+O bolo queimou porque eu esqueci de programar o timer.
+
+Quando chegamos ao cinema, os ingressos já estavam esgotados.
+
+Você já tinha arrumado suas malas antes do táxi chegar?
+
+Ele praticou todos os dias, então tocou perfeitamente no concerto.
 
 ## Listening
 
