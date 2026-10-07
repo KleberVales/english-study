@@ -4,16 +4,7 @@
 
 ## Writing
 
-Os convidados já tinham comido quando servimos a sobremesa.
 
-Eu tinha esquecido meu guarda-chuva, então fiquei encharcado pela chuva.
-
-Ela esperou uma hora até o ônibus finalmente chegar.
-
-Tínhamos acabado de limpar quando nossos amigos apareceram.
-
-Eles viajaram para a Espanha duas vezes antes de decidirem morar lá.
- 
 ## Listening
 
 They had painted the walls before the furniture arrived.
