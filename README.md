@@ -20,6 +20,8 @@ By 2035, scientists will have discovered new ways to treat the disease.
 
 I will have called you before the meeting starts.
 
+The company will have launched the new product by September.
+
 
 ### Have
 
