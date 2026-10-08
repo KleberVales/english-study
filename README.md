@@ -4,28 +4,19 @@
 
 ## Writing
 
-The students had finished the exam before the bell rang.
+By next month, I will have finished writing my thesis.
 
-I had never ridden a horse until last summer.
+She will have saved enough money by the end of the year.
 
-She had called me twice before I answered the phone.
+They will have moved to their new house before winter.
 
-We had already left the restaurant when the storm began.
+By the time you arrive, we will have prepared everything.
 
-He had lost his job before he decided to start his own business.
-
+He will have completed the marathon by noon.
 
 ## Listening
 
-The dog had eaten the sandwich before anyone noticed.
 
-They had planned the trip for months before they finally went.
-
-I had turned off the lights before I went to bed.
-
-Had she cooked dinner before you got home?
-
-The team had trained hard, so they won the championship.
 
 ### Have
 
