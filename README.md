@@ -22,6 +22,9 @@ I will have called you before the meeting starts.
 
 The company will have launched the new product by September.
 
+Will you have finished the report by tomorrow afternoon?
+
+By the time she turns thirty, she will have traveled to twenty countries.
 
 ### Have
 
