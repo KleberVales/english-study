@@ -4,15 +4,15 @@
 
 ## Writing
 
-Eles moraram na mesma cidade por anos antes de se tornarem amigos.
+They had lived in the same town for years before they became friends.
 
-O bolo queimou porque eu esqueci de programar o timer.
+The cake had burned because I had forgotten to set the timer.
 
-Quando chegamos ao cinema, os ingressos já estavam esgotados.
+By the time we reached the cinema, the tickets had sold out.
 
-Você já tinha arrumado suas malas antes do táxi chegar?
+Had you packed your bags before the taxi arrived?
 
-Ele praticou todos os dias, então tocou perfeitamente no concerto.
+He had practiced every day, so he played perfectly at the concert.
 
 ## Listening
 
