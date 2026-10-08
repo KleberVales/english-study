@@ -4,27 +4,28 @@
 
 ## Writing
 
-They had lived in the same town for years before they became friends.
+The students had finished the exam before the bell rang.
 
-The cake had burned because I had forgotten to set the timer.
+I had never ridden a horse until last summer.
 
-By the time we reached the cinema, the tickets had sold out.
+She had called me twice before I answered the phone.
 
-Had you packed your bags before the taxi arrived?
+We had already left the restaurant when the storm began.
 
-He had practiced every day, so he played perfectly at the concert.
+He had lost his job before he decided to start his own business.
+
 
 ## Listening
 
-The rain had stopped before we left the house.
+The dog had eaten the sandwich before anyone noticed.
 
-He had never spoken in public before that day.
+They had planned the trip for months before they finally went.
 
-We had already booked the hotel when the prices went up.
+I had turned off the lights before I went to bed.
 
-I had cleaned the kitchen before my parents came home.
+Had she cooked dinner before you got home?
 
-She had met him once before the wedding.
+The team had trained hard, so they won the championship.
 
 ### Have
 
